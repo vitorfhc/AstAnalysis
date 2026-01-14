@@ -1,0 +1,8 @@
+{
+  "name": "ast-analysis-tools",
+  "private": true,
+  "dependencies": {
+    "@babel/parser": "^7.24.0",
+    "@babel/traverse": "^7.24.0"
+  }
+}
